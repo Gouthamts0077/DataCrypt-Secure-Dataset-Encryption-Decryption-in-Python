@@ -1,4 +1,5 @@
-# Secure Dataset Encryption and Decryption Scripts
+# DataCrypt-Secure-Dataset-Encryption-Decryption-in-Python
+
 
 This repository contains Python scripts to **encrypt** and **decrypt** dataset files securely using **AES-GCM (Advanced Encryption Standard - Galois/Counter Mode)**. AES-GCM provides both encryption and authentication, making it ideal for securely storing or sharing sensitive data while ensuring data integrity.
 
